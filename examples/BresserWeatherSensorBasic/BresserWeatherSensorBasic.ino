@@ -53,10 +53,6 @@
 #include "WeatherSensorCfg.h"
 #include "WeatherSensor.h"
 
-static const uint8_t MOSI = 27;
-static const uint8_t MISO = 19;
-static const uint8_t SCK  = 5;
-
 
 WeatherSensor weatherSensor;
 
