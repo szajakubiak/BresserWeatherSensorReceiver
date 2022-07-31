@@ -10,3 +10,4 @@ The Bresser 5-in-1 Weather Stations seem to use two different protocols. Select 
 | 7002585       | decodeBresser**6In1**Payload()  |
 
 Configure the desired radio module by (un-)commenting `USE_CC1101` or `USE_SX1276` in `WeatherSensor.h`.
+Install RadioLib library from Arduino IDE library manager.
